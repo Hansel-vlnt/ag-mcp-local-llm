@@ -46,3 +46,8 @@ env/
 .pytest_cache/
 .coverage
 htmlcov/
+
+# 9Router (local AI gateway)
+9router/
+node_modules/
+
